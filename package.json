@@ -1,0 +1,25 @@
+{
+    "name": "com.bridge.core.app.rendering",
+    "version": "1.0.0",
+    "displayName": "3ridge Rendering Toolkit",
+    "description": "Contains rendering tools for unity apps..",
+    "unity": "2021.1",
+    "unityRelease": "0b5",
+    "dependencies": {
+    },
+   "keywords": [
+      "Bridge",
+      "3ridge",
+      "Rendering",
+      "Toolkit",
+      "Rendering Toolkit",
+      "Bridge Rendering Toolkit",
+      "3ridge Rendering Toolkit"
+    ],
+    "author": {
+      "name": "3ridge",
+      "email": "hlulani@3ridge.co.za",
+      "url": "https://www.3ridge.co.za"
+    }
+  }
+  
